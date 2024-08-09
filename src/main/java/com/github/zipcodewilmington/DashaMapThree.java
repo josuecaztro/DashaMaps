@@ -9,12 +9,12 @@ public class DashaMapThree implements HashMapX{
         return null;
     }
 
+
     @Override
     public void set(String key, String value) {
-
-            key-hash = hash-function(key)
-            newval = new Node(key, value)
-            append-to(hash-array[key-hash], newval)
+//            key-hash = hash-function(key)
+//            newval = new Node(key, value)
+//            append-to(hash-array[key-hash], newval)
     }
 
     @Override

@@ -12,7 +12,7 @@ import org.junit.jupiter.params.provider.ValueSource;
  * @version 1.0.0
  * @date 5/17/21 11:02 AM
  */
-@Disabled
+//@Disabled
 public class PersonTest {
 
     @ParameterizedTest
